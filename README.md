@@ -8,3 +8,4 @@ Para rodar esse projeto na sua maquina, por favor digite:
 
 node app.js
 ```
+Exemplo test exemplificando conhecimentos aprendidos no Curso de Git e GitHub da plataforma Alura 
