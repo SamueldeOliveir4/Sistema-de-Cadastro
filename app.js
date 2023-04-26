@@ -10,5 +10,4 @@ console.log("A aplicacao esta se conectando com o banco de dados ")
     git log --online = mostra todos os logs das modificacoes 
     git restore --source "hash" = retorna o codigo para a versao escolhida
     git log -p = ver alteracoes do commit
-
 */
